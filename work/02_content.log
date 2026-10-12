@@ -1,0 +1,470 @@
+OpenAI Codex v0.157.0
+--------
+workdir: /Users/monghoaivu/Desktop/code/cv/work
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: low
+reasoning summaries: none
+session id: 01a1196b-f5f3-7cc1-996c-44ceab8da636
+--------
+user
+Bạn là chuyên gia viết CV tiếng Việt. Văn phong TRANG TRỌNG, súc tích, chuyên nghiệp.
+
+Đọc file 01_research.md (kết quả nghiên cứu yêu cầu tuyển dụng vị trí Tư vấn viên) và JD dưới đây, rồi viết NỘI DUNG CV cho ứng viên. Trọng tâm: năng lực THẤU HIỂU VÀ LÀM VIỆC VỚI CON NGƯỜI (lắng nghe, giao tiếp, xử lý tình huống, chăm sóc lâu dài, tạo niềm tin), vì đây là vị trí tư vấn.
+
+JD: Tư vấn viên – tiếp nhận danh sách khách hàng có sẵn để liên hệ, chăm sóc; hỗ trợ, giải đáp, hướng dẫn khách hàng theo quy trình; chăm sóc định kỳ qua điện thoại/các kênh; cập nhật thông tin khách hàng trên hệ thống; báo cáo kết quả. Thứ 2–Thứ 7, 08:30–17:30, Từ Liêm, Hà Nội.
+
+THÔNG TIN ỨNG VIÊN (chỉ được dùng các thông tin này):
+- Họ tên: Mông Hoài Vũ. Ngày sinh: 25/06/1985. Email: pythondevhn2023@gmail.com. Địa chỉ: Cầu Diễn, Hà Nội (gần nơi làm việc).
+- 4 năm: Trưởng nhóm vận hành công trường.
+- 4 năm: Tổ trưởng Kiểm toán nội bộ (Internal Audit) tại công ty lọc hóa dầu.
+- 2 năm: Chuyên viên/nhân viên An toàn tại công ty hóa dầu.
+- 4 năm: Chủ quán ăn (tự kinh doanh) – trực tiếp phục vụ, chăm sóc khách hàng, giữ chân khách quen.
+- Nghe, nói, đọc, viết tiếng Anh.
+- Có khả năng làm việc với AI; hiểu và thiết lập hệ thống AI agent harness (tự động hóa quy trình bằng AI).
+
+QUY TẮC TRUNG THỰC (bắt buộc):
+- KHÔNG bịa tên công ty, mốc thời gian, trường học, chứng chỉ, số liệu hay thành tích. Chỗ chưa có dữ liệu dùng placeholder trong ngoặc vuông, ví dụ [Tên công ty], [MM/YYYY – MM/YYYY], [Số điện thoại], [Trường/Chuyên ngành].
+- Mô tả công việc chỉ suy luận hợp lý từ chức danh (ví dụ tổ trưởng kiểm toán nội bộ thì có phỏng vấn, làm việc với các phòng ban, lập báo cáo; an toàn thì huấn luyện, nhắc nhở người lao động; quán ăn thì tiếp đón, xử lý phàn nàn, chăm sóc khách quen). Mỗi gạch đầu dòng phải gắn với kỹ năng con người hoặc yêu cầu của JD (lắng nghe, giải thích, quy trình, dữ liệu, báo cáo).
+- Không ghi tuổi, không ghi mức lương mong muốn.
+
+ĐẦU RA: ghi vào file 02_cv_content.md với đúng các mục theo bố cục CV mẫu:
+1. Họ tên + Chức danh ứng tuyển (một dòng).
+2. Thông tin liên hệ (ngày sinh, điện thoại placeholder, email, địa chỉ).
+3. Mục tiêu nghề nghiệp: Mục tiêu ngắn hạn (2–3 câu) và Mục tiêu dài hạn (1–2 câu).
+4. Kinh nghiệm làm việc: 4 vị trí, sắp xếp theo thứ tự đề xuất hợp lý nhất cho vị trí tư vấn (giải thích ngắn lý do sắp xếp ở cuối file, ngoài CV); mỗi vị trí 3 gạch đầu dòng, mỗi dòng ≤ 30 từ.
+5. Trình độ học vấn: placeholder.
+6. Kỹ năng: 6 dòng ngắn (≤ 6 từ mỗi dòng, giống CV mẫu).
+7. Ngoại ngữ & Công nghệ: 2–3 dòng ngắn.
+8. Cuối file, ngoài CV: danh sách các placeholder ứng viên cần cung cấp.
+Toàn bộ CV phải vừa 1 trang A4.
+
+codex
+Tôi sẽ đọc file nghiên cứu và soạn nội dung CV một trang, ưu tiên kinh nghiệm chăm sóc khách hàng và năng lực làm việc với con người.
+
+exec
+/bin/zsh -lc "pwd; rg --files -g 'AGENTS.md' -g '01_research.md' -g '02_cv_content.md' -g '"'!node_modules'"' -g '"'!vendor'"'" in /Users/monghoaivu/Desktop/code/cv/work
+ succeeded in 0ms:
+/Users/monghoaivu/Desktop/code/cv/work
+01_research.md
+
+exec
+/bin/zsh -lc 'cat 01_research.md' in /Users/monghoaivu/Desktop/code/cv/work
+ succeeded in 0ms:
+**Kết quả rà soát: 8 tin tuyển dụng đáp ứng điều kiện về ngày đăng/cập nhật, trong đó 7 tin có địa điểm tại Hà Nội.** Những năng lực nổi bật là giao tiếp rõ ràng, kinh nghiệm làm việc với khách hàng, giọng nói dễ nghe, sử dụng máy tính và xử lý tình huống. Với JD tham chiếu, CV nên nhấn mạnh thêm việc chăm sóc định kỳ, cập nhật dữ liệu và tuân thủ quy trình.
+
+Phạm vi thời gian được áp dụng là **01/10/2025–08/10/2026**. Ngày dưới đây là ngày đăng/cập nhật ghi trên trang chi tiết, không phải ngày công cụ tìm kiếm thu thập dữ liệu hoặc hạn nộp hồ sơ. Một số tin đã hết hạn; chúng được dùng để nghiên cứu yêu cầu tuyển dụng trong kỳ, không được coi là vị trí chắc chắn còn nhận hồ sơ.
+
+**1. Danh sách nguồn tham khảo**
+
+Tên tin trong bảng là liên kết tới URL gốc. Mã S1–S8 được dùng để đối chiếu ở phần thống kê.
+
+| Mã | Tin tuyển dụng — doanh nghiệp | Ngày được xác minh | Địa điểm | Điểm tương đồng và khác biệt với JD |
+|---|---|---|---|---|
+| S1 | [Nhân viên Telesales — Cung ứng Y tế Nha Phong](https://nhansu.vn/nhan-vien-telesales-di-lam-ngay-luong-tu-7tr-den-12tr-232588.html) | **Đăng 10/06/2026** | Hà Đông, Hà Nội | Gọi theo dữ liệu có sẵn, chăm sóc khách hiện hữu, xử lý phản hồi, cập nhật CRM; có thêm tìm khách và thúc đẩy tái mua. |
+| S2 | [Nhân viên Telesales, mảng Dược mỹ phẩm — Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html) | **Đăng 01/01/2026** | Đống Đa, Hà Nội | Gọi từ danh sách được cấp, giải đáp, lưu lịch sử chăm sóc trên CRM, báo cáo; có chốt đơn trực tuyến. |
+| S3 | [Nhân viên Kinh doanh B2B — Aquahandy Health Technology Việt Nam](https://nhansu.vn/nhan-vien-kinh-doanh-b2b-luong-cung-10-11-trieu-thuong-230403.html) | **Đăng 09/05/2026** | Hà Đông, Hà Nội | Tư vấn qua điện thoại, chăm sóc khách, CRM và báo cáo; thiên về bán hàng doanh nghiệp hơn JD tham chiếu. |
+| S4 | [Hà Nội — Telesales/Nhân viên bán hàng qua điện thoại — LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) | **Cập nhật 26/07/2026** | Hà Nội | Gọi theo kịch bản, theo dõi hồ sơ, cập nhật CRM và báo cáo; có KPI cuộc gọi, bán sản phẩm tài chính và nhắc thanh toán. |
+| S5 | [Nhân viên tư vấn khách hàng qua tổng đài MB Bank — Truyền thông Kim Cương](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-tu-van-khach-hang-qua-tong-dai-ngan-hang-mb-bank-tai-dong-da.35C813C7.html) | **Cập nhật 27/09/2026** | Đống Đa, Hà Nội | Có nhánh tiếp nhận/hỗ trợ và nhánh gọi ra theo kịch bản. Nhánh gọi ra làm giờ hành chính, nghỉ Chủ nhật. |
+| S6 | [Nhân viên Chăm sóc khách hàng, mỹ phẩm — ONE GROUP](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-cham-soc-khach-hang-my-pham.35C806B5.html) | **Cập nhật 05/08/2026** | Hà Nội và TP.HCM | Giải đáp qua cuộc gọi/mạng xã hội, xử lý khiếu nại, theo dõi đến khi hoàn tất và báo cáo. |
+| S7 | [Chuyên viên Sales & Chăm sóc khách hàng — VitalWave Việt Nam](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html) | **Cập nhật 19/08/2026** | Hà Nội | Chăm sóc đa kênh, sử dụng CRM, phối hợp xử lý phản hồi, tuân thủ kịch bản; thuộc dịch vụ sức khỏe chuyên sâu. |
+| S8 | [Cán bộ Tuyển sinh — Viện Quản trị & Công nghệ FSB, Đại học FPT](https://career.fpt.edu.vn/Job/Detail/77428) | **Đăng 01/06/2026** | TP.HCM | Tư vấn, theo sát khách tiềm năng, hướng dẫn hồ sơ, cập nhật CRM/file. Nguồn bổ sung ngoài Hà Nội; tin không xác định điện thoại là kênh duy nhất. |
+
+Đây là **mẫu khảo sát có chủ đích**, không đại diện thống kê cho toàn bộ thị trường. Các tin tương đồng về nghiệp vụ nhưng không đồng nhất về ngành, doanh số hoặc ca làm việc.
+
+**2. Các yêu cầu phổ biến, xếp theo tần suất**
+
+Cách đếm: mỗi tiêu chí tính tối đa một lần trong một tin; gộp các cách diễn đạt tương đương. Bảng này đếm nội dung trong **phần yêu cầu ứng viên**, kể cả điều kiện được ghi là ưu tiên/lợi thế.
+
+| Xếp hạng | Yêu cầu | Tần suất | Nguồn đối chiếu |
+|---|---|---:|---|
+| 1 | **Giao tiếp, truyền đạt rõ ràng hoặc giọng nói phù hợp** | **8/8** | S1–S8 |
+| 2 | **Kinh nghiệm sales, telesales, tư vấn hoặc CSKH** | **7/8** | S1, S2, S3, S4, S6, S7, S8 |
+| 3 | **Giọng nói rõ, dễ nghe; một số nơi yêu cầu không nói ngọng/giọng địa phương nặng** | **6/8** | S1–S6 |
+| 3 | **Sử dụng máy tính, tin học văn phòng hoặc công cụ số** | **6/8** | S1, S2, S3, S4, S5, S7 |
+| 5 | **Xử lý tình huống, từ chối hoặc phản đối linh hoạt** | **5/8** | S1, S2, S3, S6, S7 |
+| 5 | **Chịu áp lực công việc/doanh số** | **5/8** | S2, S3, S4, S6, S8 |
+| 7 | **Kiên trì hoặc kiên nhẫn** | **4/8** | S3, S4, S6, S8 |
+| 8 | **Excel được nêu đích danh** | **3/8** | S2, S3, S7 |
+| 9 | **Lắng nghe được nêu đích danh** | **2/8** | S2, S7 |
+| 9 | **Biết sử dụng CRM được nêu trong yêu cầu** | **2/8** | S3: lợi thế; S7: sử dụng được |
+
+Các nhóm có thể chồng lấp: chẳng hạn giọng nói là một thành phần của giao tiếp, không phải tiêu chí độc lập để cộng thành tổng.
+
+**CRM xuất hiện nhiều hơn nếu xét cả nhiệm vụ:** 6/8 tin nhắc CRM trong công việc hoặc yêu cầu, nhưng chỉ 2/8 nêu rõ năng lực sử dụng CRM trong phần tuyển chọn. Vì vậy, không nên diễn giải rằng tất cả doanh nghiệp đều bắt buộc ứng viên đã thành thạo CRM trước khi vào làm. Các nhiệm vụ cập nhật dữ liệu thể hiện rõ ở [Nha Phong](https://nhansu.vn/nhan-vien-telesales-di-lam-ngay-luong-tu-7tr-den-12tr-232588.html), [Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html), [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) và [FSB](https://career.fpt.edu.vn/Job/Detail/77428).
+
+Về thái độ, các tin nhấn mạnh trách nhiệm, trung thực, chủ động và học hỏi theo những cách khác nhau. Riêng [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html) coi trọng sự bình tĩnh, minh bạch và tư vấn đúng phạm vi; [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) nêu yêu cầu bảo vệ dữ liệu khách hàng.
+
+**3. Từ khóa nên có trong CV**
+
+Đối với JD tham chiếu, nên ưu tiên các cụm sau, **chỉ sử dụng khi phản ánh đúng năng lực hoặc kinh nghiệm thực tế**:
+
+| Nhóm | Từ khóa đề xuất |
+|---|---|
+| Chức danh, nghiệp vụ | Tư vấn viên; chăm sóc khách hàng qua điện thoại; CSKH; telesales; hỗ trợ khách hàng |
+| Công việc cốt lõi | Liên hệ danh sách khách hàng có sẵn; giải đáp thắc mắc; hướng dẫn theo quy trình; chăm sóc khách hàng định kỳ |
+| Giao tiếp | Lắng nghe; xác định nhu cầu; truyền đạt rõ ràng; xử lý tình huống; xử lý phản hồi/khiếu nại |
+| Dữ liệu, công cụ | Cập nhật thông tin khách hàng; CRM; lịch sử tương tác; Excel; Google Sheets; báo cáo kết quả công việc |
+| Tổ chức, thái độ | Theo dõi tiến độ; phối hợp liên phòng ban; tuân thủ quy trình; bảo mật thông tin; trách nhiệm; kiên trì |
+
+Các cụm về CRM, Excel, tư vấn và xử lý phản hồi được thể hiện trong [Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html), [Aquahandy](https://nhansu.vn/nhan-vien-kinh-doanh-b2b-luong-cung-10-11-trieu-thuong-230403.html) và [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html).
+
+**Cách đưa vào CV:** gắn từ khóa với hành động và kết quả. Ví dụ: “Theo dõi yêu cầu khách hàng trên Excel, phối hợp bộ phận liên quan và cập nhật tiến độ xử lý hằng ngày.”
+
+Chưa có căn cứ từ các nguồn trên để xác định từng doanh nghiệp sử dụng hệ thống ATS nào hoặc ngưỡng chấm điểm từ khóa. Những cụm này giúp CV thể hiện mức độ phù hợp, **không bảo đảm vượt qua sàng lọc**.
+
+**4. Ứng viên khoảng 40 tuổi chuyển ngành: nên chứng minh điều gì?**
+
+**Không có tin nào trong mẫu tuyên bố ưu tiên người khoảng 40 tuổi.** Các lợi thế dưới đây là nhận định từ yêu cầu công việc, không phải kết luận rằng nhà tuyển dụng ưu tiên một nhóm tuổi.
+
+| Kinh nghiệm nền tảng | Giá trị có thể chuyển sang vị trí tư vấn/CSKH | Minh chứng nên đưa vào CV |
+|---|---|---|
+| Quản lý, điều phối | Theo dõi yêu cầu đến khi hoàn tất, phối hợp các bộ phận | Một tình huống xử lý vướng mắc và kết quả cụ thể |
+| Kiểm soát, kiểm tra | Ghi nhận chính xác, kiểm tra thông tin, thực hiện đúng quy trình | Khối lượng hồ sơ đã kiểm tra, sai sót đã phát hiện hoặc giảm được |
+| Kinh doanh | Hiểu nhu cầu, giải thích lợi ích, duy trì quan hệ | Số khách đã phụ trách, tỷ lệ tái mua hoặc kết quả chăm sóc nếu có |
+| Xử lý quan hệ khách hàng | Bình tĩnh trước phản hồi, giải thích rõ, thống nhất bước xử lý | Một trường hợp giải quyết phản ánh hoặc giữ được khách |
+| Đào tạo, hướng dẫn nhân sự | Tiếp thu và diễn đạt quy trình có hệ thống | Ví dụ hướng dẫn người khác thực hiện nghiệp vụ |
+
+Đây là các năng lực phù hợp với công việc theo dõi khiếu nại của [ONE GROUP](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-cham-soc-khach-hang-my-pham.35C806B5.html), quản lý thông tin của [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) và tư vấn bình tĩnh, đúng phạm vi của [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html).
+
+**Rào cản tuổi cần đọc kỹ:** Aquahandy ghi 20–35 tuổi; Zacy ghi 22–35 tuổi. Tin Kim Cương có thông tin mâu thuẫn: phần yêu cầu ghi 20–35, trong khi trường thông tin khác ghi không giới hạn. Không nên coi tin này là đã xác nhận nhận ứng viên 40 tuổi. Ngược lại, LOTTE Finance, ONE GROUP và VitalWave hiển thị không giới hạn tuổi; Nha Phong ghi không yêu cầu độ tuổi, nhưng tuyển nữ. Nguồn và ngày tương ứng ở S1–S7.
+
+Khuyến nghị cho ứng viên chuyển ngành là làm rõ **lý do chọn công việc trực tiếp phục vụ khách hàng, khả năng học công cụ và mong muốn gắn bó**. Chức danh quản lý trước đây nên đi cùng minh chứng nghiệp vụ gần với JD, tránh để người đọc phải tự suy đoán khả năng làm công việc hằng ngày.
+
+**5. Khuyến nghị cho “Mục tiêu nghề nghiệp” và “Kỹ năng”**
+
+**Mục tiêu nghề nghiệp — bản đề xuất**
+
+> Mong muốn chuyển sang vị trí Tư vấn viên/Chăm sóc khách hàng qua điện thoại, vận dụng kinh nghiệm quản lý, kiểm soát và kinh doanh để hỗ trợ khách hàng rõ ràng, chính xác và theo sát yêu cầu đến khi hoàn tất. Sẵn sàng học sản phẩm, quy trình và hệ thống CRM; hướng tới đáp ứng các chỉ tiêu được giao và gắn bó lâu dài.
+
+Chỉ giữ những lĩnh vực kinh nghiệm thực sự có. Không cần đưa tuổi hoặc mức thu nhập mong muốn vào đoạn này. Nếu phù hợp thực tế, có thể ghi riêng ở phần thông tin bổ sung: “Có thể làm việc tại Từ Liêm, theo lịch Thứ 2–Thứ 7.”
+
+**Kỹ năng — cách viết phù hợp JD**
+
+Chọn khoảng 5–6 dòng và điều chỉnh theo năng lực thực tế:
+
+- **Giao tiếp và tư vấn:** Lắng nghe, xác định nhu cầu, giải thích thông tin rõ ràng và kiểm tra mức độ hiểu của khách hàng.
+- **Xử lý phản hồi:** Tiếp nhận, xác minh và phối hợp giải quyết vấn đề trong phạm vi trách nhiệm.
+- **Theo dõi khách hàng:** Quản lý danh sách, lịch liên hệ và tiến độ xử lý; chủ động nhắc các đầu việc còn tồn.
+- **Quản lý thông tin:** Ghi nhận đầy đủ nội dung trao đổi, kiểm tra độ chính xác và bảo mật dữ liệu.
+- **Excel/Google Sheets:** Nhập liệu, sắp xếp, lọc và tổng hợp báo cáo — chỉ liệt kê thao tác đã sử dụng.
+- **Tổ chức công việc:** Ưu tiên đầu việc, tuân thủ quy trình, báo cáo đúng hạn và phối hợp với các bộ phận.
+
+**Nếu chưa từng dùng CRM**, nên ghi trung thực: “Có kinh nghiệm quản lý dữ liệu trên Excel; sẵn sàng học hệ thống CRM.” Nếu đã dùng, ghi tên hệ thống và thao tác cụ thể như cập nhật hồ sơ, lưu lịch sử trao đổi hoặc đặt lịch chăm sóc.
+
+Để tăng sức thuyết phục, bổ sung một minh chứng có số liệu thật trong phần kinh nghiệm, chẳng hạn: “Theo dõi **[X]** hồ sơ/khách hàng mỗi tháng, phối hợp xử lý **[Y]** yêu cầu và duy trì **[Z]%** đầu việc đúng hạn.”
+apply patch
+patch: completed
+/Users/monghoaivu/Desktop/code/cv/work/02_cv_content.md
+diff --git a/02_cv_content.md b/02_cv_content.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..94f38b2cab543a0247b7e9c9ce3379105de2aa37
+--- /dev/null
++++ b/02_cv_content.md
+@@ -0,0 +1,64 @@
++# MÔNG HOÀI VŨ | ỨNG TUYỂN TƯ VẤN VIÊN
++
++## Thông tin liên hệ
++Ngày sinh: 25/06/1985 | Điện thoại: [Số điện thoại]  
++Email: pythondevhn2023@gmail.com | Địa chỉ: Cầu Diễn, Hà Nội (gần nơi làm việc)
++
++## Mục tiêu nghề nghiệp
++**Ngắn hạn:** Vận dụng kinh nghiệm phục vụ khách hàng và phối hợp nhân sự để lắng nghe, giải đáp, hướng dẫn khách hàng. Chủ động học quy trình, hệ thống để liên hệ danh sách có sẵn, chăm sóc định kỳ qua điện thoại/các kênh, cập nhật thông tin và báo cáo.
++
++**Dài hạn:** Gắn bó với nghề tư vấn, xây dựng niềm tin qua sự hỗ trợ tận tâm, nhất quán và duy trì quan hệ khách hàng lâu dài.
++
++## Kinh nghiệm làm việc
++**Chủ quán ăn — [Tên quán ăn]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Trực tiếp tiếp đón, lắng nghe nhu cầu và phục vụ khách hàng.
++- Tiếp nhận phàn nàn, trao đổi để làm rõ vấn đề và xử lý phù hợp.
++- Chăm sóc khách quen, ghi nhớ sở thích để duy trì sự gắn bó.
++
++**Tổ trưởng Kiểm toán nội bộ — [Tên công ty lọc hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phỏng vấn, lắng nghe các phòng ban để làm rõ thông tin và quy trình thực hiện.
++- Trao đổi phát hiện kiểm toán trên cơ sở bằng chứng, giải thích nội dung cần khắc phục.
++- Tổng hợp thông tin, lập báo cáo và phối hợp theo dõi việc khắc phục.
++
++**Trưởng nhóm vận hành công trường — [Tên công ty/đơn vị công trường]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phân công, hướng dẫn công việc rõ ràng và kiểm tra mức độ nắm bắt của nhân sự.
++- Lắng nghe khó khăn, phối hợp các bên xử lý vướng mắc trong vận hành.
++- Theo dõi tiến độ, tổng hợp tình hình và báo cáo các vấn đề cần hỗ trợ.
++
++**Nhân viên An toàn — [Tên công ty hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 2 năm
++- Hướng dẫn người lao động thực hiện quy trình an toàn bằng cách diễn đạt dễ hiểu.
++- Giải đáp thắc mắc, nhắc nhở tuân thủ và trao đổi về nguy cơ tại nơi làm việc.
++- Ghi nhận phản ánh, phối hợp xử lý và báo cáo vấn đề an toàn.
++
++## Trình độ học vấn
++[Trường/Chuyên ngành] | [Bậc đào tạo] | [Thời gian học]
++
++## Kỹ năng
++- Lắng nghe, thấu hiểu nhu cầu
++- Giao tiếp rõ ràng
++- Xử lý tình huống
++- Chăm sóc khách hàng
++- Hướng dẫn theo quy trình
++- Tổng hợp thông tin, báo cáo
++
++## Ngoại ngữ & Công nghệ
++- Tiếng Anh: nghe, nói, đọc, viết.
++- AI: sử dụng, thiết lập hệ thống AI agent harness để tự động hóa quy trình.
++
++---
++
++**Ghi chú ngoài CV — không đưa vào bản nộp**
++
++**Lý do sắp xếp:** Ưu tiên mức độ phù hợp với vị trí tư vấn: quán ăn thể hiện chăm sóc khách hàng trực tiếp; kiểm toán thể hiện lắng nghe, quy trình và báo cáo; vận hành thể hiện phối hợp, xử lý tình huống; an toàn bổ sung năng lực hướng dẫn.
++
++**Thông tin cần bổ sung cho các placeholder:**
++- [Số điện thoại].
++- [Tên quán ăn], [Tên công ty lọc hóa dầu], [Tên công ty/đơn vị công trường], [Tên công ty hóa dầu].
++- [MM/YYYY – MM/YYYY]: thời gian bắt đầu và kết thúc của từng vị trí.
++- [Trường/Chuyên ngành], [Bậc đào tạo], [Thời gian học].
++
++**Dàn trang đề xuất:** Phần CV phía trên đường phân cách dùng khổ A4, cỡ chữ 10,5–11 pt, lề 1,5 cm, giãn dòng đơn; trình bày kỹ năng thành hai cột để giữ trong một trang.
+
+diff --git a/02_cv_content.md b/02_cv_content.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..94f38b2cab543a0247b7e9c9ce3379105de2aa37
+--- /dev/null
++++ b/02_cv_content.md
+@@ -0,0 +1,64 @@
++# MÔNG HOÀI VŨ | ỨNG TUYỂN TƯ VẤN VIÊN
++
++## Thông tin liên hệ
++Ngày sinh: 25/06/1985 | Điện thoại: [Số điện thoại]  
++Email: pythondevhn2023@gmail.com | Địa chỉ: Cầu Diễn, Hà Nội (gần nơi làm việc)
++
++## Mục tiêu nghề nghiệp
++**Ngắn hạn:** Vận dụng kinh nghiệm phục vụ khách hàng và phối hợp nhân sự để lắng nghe, giải đáp, hướng dẫn khách hàng. Chủ động học quy trình, hệ thống để liên hệ danh sách có sẵn, chăm sóc định kỳ qua điện thoại/các kênh, cập nhật thông tin và báo cáo.
++
++**Dài hạn:** Gắn bó với nghề tư vấn, xây dựng niềm tin qua sự hỗ trợ tận tâm, nhất quán và duy trì quan hệ khách hàng lâu dài.
++
++## Kinh nghiệm làm việc
++**Chủ quán ăn — [Tên quán ăn]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Trực tiếp tiếp đón, lắng nghe nhu cầu và phục vụ khách hàng.
++- Tiếp nhận phàn nàn, trao đổi để làm rõ vấn đề và xử lý phù hợp.
++- Chăm sóc khách quen, ghi nhớ sở thích để duy trì sự gắn bó.
++
++**Tổ trưởng Kiểm toán nội bộ — [Tên công ty lọc hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phỏng vấn, lắng nghe các phòng ban để làm rõ thông tin và quy trình thực hiện.
++- Trao đổi phát hiện kiểm toán trên cơ sở bằng chứng, giải thích nội dung cần khắc phục.
++- Tổng hợp thông tin, lập báo cáo và phối hợp theo dõi việc khắc phục.
++
++**Trưởng nhóm vận hành công trường — [Tên công ty/đơn vị công trường]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phân công, hướng dẫn công việc rõ ràng và kiểm tra mức độ nắm bắt của nhân sự.
++- Lắng nghe khó khăn, phối hợp các bên xử lý vướng mắc trong vận hành.
++- Theo dõi tiến độ, tổng hợp tình hình và báo cáo các vấn đề cần hỗ trợ.
++
++**Nhân viên An toàn — [Tên công ty hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 2 năm
++- Hướng dẫn người lao động thực hiện quy trình an toàn bằng cách diễn đạt dễ hiểu.
++- Giải đáp thắc mắc, nhắc nhở tuân thủ và trao đổi về nguy cơ tại nơi làm việc.
++- Ghi nhận phản ánh, phối hợp xử lý và báo cáo vấn đề an toàn.
++
++## Trình độ học vấn
++[Trường/Chuyên ngành] | [Bậc đào tạo] | [Thời gian học]
++
++## Kỹ năng
++- Lắng nghe, thấu hiểu nhu cầu
++- Giao tiếp rõ ràng
++- Xử lý tình huống
++- Chăm sóc khách hàng
++- Hướng dẫn theo quy trình
++- Tổng hợp thông tin, báo cáo
++
++## Ngoại ngữ & Công nghệ
++- Tiếng Anh: nghe, nói, đọc, viết.
++- AI: sử dụng, thiết lập hệ thống AI agent harness để tự động hóa quy trình.
++
++---
++
++**Ghi chú ngoài CV — không đưa vào bản nộp**
++
++**Lý do sắp xếp:** Ưu tiên mức độ phù hợp với vị trí tư vấn: quán ăn thể hiện chăm sóc khách hàng trực tiếp; kiểm toán thể hiện lắng nghe, quy trình và báo cáo; vận hành thể hiện phối hợp, xử lý tình huống; an toàn bổ sung năng lực hướng dẫn.
++
++**Thông tin cần bổ sung cho các placeholder:**
++- [Số điện thoại].
++- [Tên quán ăn], [Tên công ty lọc hóa dầu], [Tên công ty/đơn vị công trường], [Tên công ty hóa dầu].
++- [MM/YYYY – MM/YYYY]: thời gian bắt đầu và kết thúc của từng vị trí.
++- [Trường/Chuyên ngành], [Bậc đào tạo], [Thời gian học].
++
++**Dàn trang đề xuất:** Phần CV phía trên đường phân cách dùng khổ A4, cỡ chữ 10,5–11 pt, lề 1,5 cm, giãn dòng đơn; trình bày kỹ năng thành hai cột để giữ trong một trang.
+
+exec
+/bin/zsh -lc "python3 - <<'PY'
+from pathlib import Path
+s = Path('02_cv_content.md').read_text().split('\\n---\\n')[0]
+experience = s.split('## Kinh nghiệm làm việc\\n')[1].split('## Trình độ học vấn')[0]
+skills = s.split('## Kỹ năng\\n')[1].split('## Ngoại ngữ')[0]
+bullets = [x[2:] for x in experience.splitlines() if x.startswith('- ')]
+lines = [x[2:] for x in skills.splitlines() if x.startswith('- ')]
+assert len(bullets) == 12 and all(len(x.split()) <= 30 for x in bullets)
+assert len(lines) == 6 and all(len(x.split()) <= 6 for x in lines)
+print(f'Đã kiểm tra: 12 gạch đầu dòng kinh nghiệm (tối đa {max(len(x.split()) for x in bullets)} từ); 6 dòng kỹ năng (tối đa {max(len(x.split()) for x in lines)} từ).')
+print(f'Phần CV: {len(s.split())} từ tính theo khoảng trắng.')
+PY" in /Users/monghoaivu/Desktop/code/cv/work
+ succeeded in 0ms:
+Đã kiểm tra: 12 gạch đầu dòng kinh nghiệm (tối đa 18 từ); 6 dòng kỹ năng (tối đa 6 từ).
+Phần CV: 484 từ tính theo khoảng trắng.
+
+diff --git a/02_cv_content.md b/02_cv_content.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..94f38b2cab543a0247b7e9c9ce3379105de2aa37
+--- /dev/null
++++ b/02_cv_content.md
+@@ -0,0 +1,64 @@
++# MÔNG HOÀI VŨ | ỨNG TUYỂN TƯ VẤN VIÊN
++
++## Thông tin liên hệ
++Ngày sinh: 25/06/1985 | Điện thoại: [Số điện thoại]  
++Email: pythondevhn2023@gmail.com | Địa chỉ: Cầu Diễn, Hà Nội (gần nơi làm việc)
++
++## Mục tiêu nghề nghiệp
++**Ngắn hạn:** Vận dụng kinh nghiệm phục vụ khách hàng và phối hợp nhân sự để lắng nghe, giải đáp, hướng dẫn khách hàng. Chủ động học quy trình, hệ thống để liên hệ danh sách có sẵn, chăm sóc định kỳ qua điện thoại/các kênh, cập nhật thông tin và báo cáo.
++
++**Dài hạn:** Gắn bó với nghề tư vấn, xây dựng niềm tin qua sự hỗ trợ tận tâm, nhất quán và duy trì quan hệ khách hàng lâu dài.
++
++## Kinh nghiệm làm việc
++**Chủ quán ăn — [Tên quán ăn]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Trực tiếp tiếp đón, lắng nghe nhu cầu và phục vụ khách hàng.
++- Tiếp nhận phàn nàn, trao đổi để làm rõ vấn đề và xử lý phù hợp.
++- Chăm sóc khách quen, ghi nhớ sở thích để duy trì sự gắn bó.
++
++**Tổ trưởng Kiểm toán nội bộ — [Tên công ty lọc hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phỏng vấn, lắng nghe các phòng ban để làm rõ thông tin và quy trình thực hiện.
++- Trao đổi phát hiện kiểm toán trên cơ sở bằng chứng, giải thích nội dung cần khắc phục.
++- Tổng hợp thông tin, lập báo cáo và phối hợp theo dõi việc khắc phục.
++
++**Trưởng nhóm vận hành công trường — [Tên công ty/đơn vị công trường]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phân công, hướng dẫn công việc rõ ràng và kiểm tra mức độ nắm bắt của nhân sự.
++- Lắng nghe khó khăn, phối hợp các bên xử lý vướng mắc trong vận hành.
++- Theo dõi tiến độ, tổng hợp tình hình và báo cáo các vấn đề cần hỗ trợ.
++
++**Nhân viên An toàn — [Tên công ty hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 2 năm
++- Hướng dẫn người lao động thực hiện quy trình an toàn bằng cách diễn đạt dễ hiểu.
++- Giải đáp thắc mắc, nhắc nhở tuân thủ và trao đổi về nguy cơ tại nơi làm việc.
++- Ghi nhận phản ánh, phối hợp xử lý và báo cáo vấn đề an toàn.
++
++## Trình độ học vấn
++[Trường/Chuyên ngành] | [Bậc đào tạo] | [Thời gian học]
++
++## Kỹ năng
++- Lắng nghe, thấu hiểu nhu cầu
++- Giao tiếp rõ ràng
++- Xử lý tình huống
++- Chăm sóc khách hàng
++- Hướng dẫn theo quy trình
++- Tổng hợp thông tin, báo cáo
++
++## Ngoại ngữ & Công nghệ
++- Tiếng Anh: nghe, nói, đọc, viết.
++- AI: sử dụng, thiết lập hệ thống AI agent harness để tự động hóa quy trình.
++
++---
++
++**Ghi chú ngoài CV — không đưa vào bản nộp**
++
++**Lý do sắp xếp:** Ưu tiên mức độ phù hợp với vị trí tư vấn: quán ăn thể hiện chăm sóc khách hàng trực tiếp; kiểm toán thể hiện lắng nghe, quy trình và báo cáo; vận hành thể hiện phối hợp, xử lý tình huống; an toàn bổ sung năng lực hướng dẫn.
++
++**Thông tin cần bổ sung cho các placeholder:**
++- [Số điện thoại].
++- [Tên quán ăn], [Tên công ty lọc hóa dầu], [Tên công ty/đơn vị công trường], [Tên công ty hóa dầu].
++- [MM/YYYY – MM/YYYY]: thời gian bắt đầu và kết thúc của từng vị trí.
++- [Trường/Chuyên ngành], [Bậc đào tạo], [Thời gian học].
++
++**Dàn trang đề xuất:** Phần CV phía trên đường phân cách dùng khổ A4, cỡ chữ 10,5–11 pt, lề 1,5 cm, giãn dòng đơn; trình bày kỹ năng thành hai cột để giữ trong một trang.
+
+codex
+Đã ghi nội dung vào [02_cv_content.md](/Users/monghoaivu/Desktop/code/cv/work/02_cv_content.md).
+
+CV ưu tiên kinh nghiệm chăm sóc khách hàng, lắng nghe và xử lý tình huống; đáp ứng giới hạn từ từng mục. Cuối file có lý do sắp xếp, danh sách thông tin cần bổ sung và hướng dẫn dàn trang A4.
+diff --git a/02_cv_content.md b/02_cv_content.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..94f38b2cab543a0247b7e9c9ce3379105de2aa37
+--- /dev/null
++++ b/02_cv_content.md
+@@ -0,0 +1,64 @@
++# MÔNG HOÀI VŨ | ỨNG TUYỂN TƯ VẤN VIÊN
++
++## Thông tin liên hệ
++Ngày sinh: 25/06/1985 | Điện thoại: [Số điện thoại]  
++Email: pythondevhn2023@gmail.com | Địa chỉ: Cầu Diễn, Hà Nội (gần nơi làm việc)
++
++## Mục tiêu nghề nghiệp
++**Ngắn hạn:** Vận dụng kinh nghiệm phục vụ khách hàng và phối hợp nhân sự để lắng nghe, giải đáp, hướng dẫn khách hàng. Chủ động học quy trình, hệ thống để liên hệ danh sách có sẵn, chăm sóc định kỳ qua điện thoại/các kênh, cập nhật thông tin và báo cáo.
++
++**Dài hạn:** Gắn bó với nghề tư vấn, xây dựng niềm tin qua sự hỗ trợ tận tâm, nhất quán và duy trì quan hệ khách hàng lâu dài.
++
++## Kinh nghiệm làm việc
++**Chủ quán ăn — [Tên quán ăn]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Trực tiếp tiếp đón, lắng nghe nhu cầu và phục vụ khách hàng.
++- Tiếp nhận phàn nàn, trao đổi để làm rõ vấn đề và xử lý phù hợp.
++- Chăm sóc khách quen, ghi nhớ sở thích để duy trì sự gắn bó.
++
++**Tổ trưởng Kiểm toán nội bộ — [Tên công ty lọc hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phỏng vấn, lắng nghe các phòng ban để làm rõ thông tin và quy trình thực hiện.
++- Trao đổi phát hiện kiểm toán trên cơ sở bằng chứng, giải thích nội dung cần khắc phục.
++- Tổng hợp thông tin, lập báo cáo và phối hợp theo dõi việc khắc phục.
++
++**Trưởng nhóm vận hành công trường — [Tên công ty/đơn vị công trường]**  
++[MM/YYYY – MM/YYYY] | 4 năm
++- Phân công, hướng dẫn công việc rõ ràng và kiểm tra mức độ nắm bắt của nhân sự.
++- Lắng nghe khó khăn, phối hợp các bên xử lý vướng mắc trong vận hành.
++- Theo dõi tiến độ, tổng hợp tình hình và báo cáo các vấn đề cần hỗ trợ.
++
++**Nhân viên An toàn — [Tên công ty hóa dầu]**  
++[MM/YYYY – MM/YYYY] | 2 năm
++- Hướng dẫn người lao động thực hiện quy trình an toàn bằng cách diễn đạt dễ hiểu.
++- Giải đáp thắc mắc, nhắc nhở tuân thủ và trao đổi về nguy cơ tại nơi làm việc.
++- Ghi nhận phản ánh, phối hợp xử lý và báo cáo vấn đề an toàn.
++
++## Trình độ học vấn
++[Trường/Chuyên ngành] | [Bậc đào tạo] | [Thời gian học]
++
++## Kỹ năng
++- Lắng nghe, thấu hiểu nhu cầu
++- Giao tiếp rõ ràng
++- Xử lý tình huống
++- Chăm sóc khách hàng
++- Hướng dẫn theo quy trình
++- Tổng hợp thông tin, báo cáo
++
++## Ngoại ngữ & Công nghệ
++- Tiếng Anh: nghe, nói, đọc, viết.
++- AI: sử dụng, thiết lập hệ thống AI agent harness để tự động hóa quy trình.
++
++---
++
++**Ghi chú ngoài CV — không đưa vào bản nộp**
++
++**Lý do sắp xếp:** Ưu tiên mức độ phù hợp với vị trí tư vấn: quán ăn thể hiện chăm sóc khách hàng trực tiếp; kiểm toán thể hiện lắng nghe, quy trình và báo cáo; vận hành thể hiện phối hợp, xử lý tình huống; an toàn bổ sung năng lực hướng dẫn.
++
++**Thông tin cần bổ sung cho các placeholder:**
++- [Số điện thoại].
++- [Tên quán ăn], [Tên công ty lọc hóa dầu], [Tên công ty/đơn vị công trường], [Tên công ty hóa dầu].
++- [MM/YYYY – MM/YYYY]: thời gian bắt đầu và kết thúc của từng vị trí.
++- [Trường/Chuyên ngành], [Bậc đào tạo], [Thời gian học].
++
++**Dàn trang đề xuất:** Phần CV phía trên đường phân cách dùng khổ A4, cỡ chữ 10,5–11 pt, lề 1,5 cm, giãn dòng đơn; trình bày kỹ năng thành hai cột để giữ trong một trang.
+
+tokens used
+11,909
+Đã ghi nội dung vào [02_cv_content.md](/Users/monghoaivu/Desktop/code/cv/work/02_cv_content.md).
+
+CV ưu tiên kinh nghiệm chăm sóc khách hàng, lắng nghe và xử lý tình huống; đáp ứng giới hạn từ từng mục. Cuối file có lý do sắp xếp, danh sách thông tin cần bổ sung và hướng dẫn dàn trang A4.

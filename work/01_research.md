@@ -1,0 +1,102 @@
+**Kết quả rà soát: 8 tin tuyển dụng đáp ứng điều kiện về ngày đăng/cập nhật, trong đó 7 tin có địa điểm tại Hà Nội.** Những năng lực nổi bật là giao tiếp rõ ràng, kinh nghiệm làm việc với khách hàng, giọng nói dễ nghe, sử dụng máy tính và xử lý tình huống. Với JD tham chiếu, CV nên nhấn mạnh thêm việc chăm sóc định kỳ, cập nhật dữ liệu và tuân thủ quy trình.
+
+Phạm vi thời gian được áp dụng là **01/10/2025–08/10/2026**. Ngày dưới đây là ngày đăng/cập nhật ghi trên trang chi tiết, không phải ngày công cụ tìm kiếm thu thập dữ liệu hoặc hạn nộp hồ sơ. Một số tin đã hết hạn; chúng được dùng để nghiên cứu yêu cầu tuyển dụng trong kỳ, không được coi là vị trí chắc chắn còn nhận hồ sơ.
+
+**1. Danh sách nguồn tham khảo**
+
+Tên tin trong bảng là liên kết tới URL gốc. Mã S1–S8 được dùng để đối chiếu ở phần thống kê.
+
+| Mã | Tin tuyển dụng — doanh nghiệp | Ngày được xác minh | Địa điểm | Điểm tương đồng và khác biệt với JD |
+|---|---|---|---|---|
+| S1 | [Nhân viên Telesales — Cung ứng Y tế Nha Phong](https://nhansu.vn/nhan-vien-telesales-di-lam-ngay-luong-tu-7tr-den-12tr-232588.html) | **Đăng 10/06/2026** | Hà Đông, Hà Nội | Gọi theo dữ liệu có sẵn, chăm sóc khách hiện hữu, xử lý phản hồi, cập nhật CRM; có thêm tìm khách và thúc đẩy tái mua. |
+| S2 | [Nhân viên Telesales, mảng Dược mỹ phẩm — Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html) | **Đăng 01/01/2026** | Đống Đa, Hà Nội | Gọi từ danh sách được cấp, giải đáp, lưu lịch sử chăm sóc trên CRM, báo cáo; có chốt đơn trực tuyến. |
+| S3 | [Nhân viên Kinh doanh B2B — Aquahandy Health Technology Việt Nam](https://nhansu.vn/nhan-vien-kinh-doanh-b2b-luong-cung-10-11-trieu-thuong-230403.html) | **Đăng 09/05/2026** | Hà Đông, Hà Nội | Tư vấn qua điện thoại, chăm sóc khách, CRM và báo cáo; thiên về bán hàng doanh nghiệp hơn JD tham chiếu. |
+| S4 | [Hà Nội — Telesales/Nhân viên bán hàng qua điện thoại — LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) | **Cập nhật 26/07/2026** | Hà Nội | Gọi theo kịch bản, theo dõi hồ sơ, cập nhật CRM và báo cáo; có KPI cuộc gọi, bán sản phẩm tài chính và nhắc thanh toán. |
+| S5 | [Nhân viên tư vấn khách hàng qua tổng đài MB Bank — Truyền thông Kim Cương](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-tu-van-khach-hang-qua-tong-dai-ngan-hang-mb-bank-tai-dong-da.35C813C7.html) | **Cập nhật 27/09/2026** | Đống Đa, Hà Nội | Có nhánh tiếp nhận/hỗ trợ và nhánh gọi ra theo kịch bản. Nhánh gọi ra làm giờ hành chính, nghỉ Chủ nhật. |
+| S6 | [Nhân viên Chăm sóc khách hàng, mỹ phẩm — ONE GROUP](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-cham-soc-khach-hang-my-pham.35C806B5.html) | **Cập nhật 05/08/2026** | Hà Nội và TP.HCM | Giải đáp qua cuộc gọi/mạng xã hội, xử lý khiếu nại, theo dõi đến khi hoàn tất và báo cáo. |
+| S7 | [Chuyên viên Sales & Chăm sóc khách hàng — VitalWave Việt Nam](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html) | **Cập nhật 19/08/2026** | Hà Nội | Chăm sóc đa kênh, sử dụng CRM, phối hợp xử lý phản hồi, tuân thủ kịch bản; thuộc dịch vụ sức khỏe chuyên sâu. |
+| S8 | [Cán bộ Tuyển sinh — Viện Quản trị & Công nghệ FSB, Đại học FPT](https://career.fpt.edu.vn/Job/Detail/77428) | **Đăng 01/06/2026** | TP.HCM | Tư vấn, theo sát khách tiềm năng, hướng dẫn hồ sơ, cập nhật CRM/file. Nguồn bổ sung ngoài Hà Nội; tin không xác định điện thoại là kênh duy nhất. |
+
+Đây là **mẫu khảo sát có chủ đích**, không đại diện thống kê cho toàn bộ thị trường. Các tin tương đồng về nghiệp vụ nhưng không đồng nhất về ngành, doanh số hoặc ca làm việc.
+
+**2. Các yêu cầu phổ biến, xếp theo tần suất**
+
+Cách đếm: mỗi tiêu chí tính tối đa một lần trong một tin; gộp các cách diễn đạt tương đương. Bảng này đếm nội dung trong **phần yêu cầu ứng viên**, kể cả điều kiện được ghi là ưu tiên/lợi thế.
+
+| Xếp hạng | Yêu cầu | Tần suất | Nguồn đối chiếu |
+|---|---|---:|---|
+| 1 | **Giao tiếp, truyền đạt rõ ràng hoặc giọng nói phù hợp** | **8/8** | S1–S8 |
+| 2 | **Kinh nghiệm sales, telesales, tư vấn hoặc CSKH** | **7/8** | S1, S2, S3, S4, S6, S7, S8 |
+| 3 | **Giọng nói rõ, dễ nghe; một số nơi yêu cầu không nói ngọng/giọng địa phương nặng** | **6/8** | S1–S6 |
+| 3 | **Sử dụng máy tính, tin học văn phòng hoặc công cụ số** | **6/8** | S1, S2, S3, S4, S5, S7 |
+| 5 | **Xử lý tình huống, từ chối hoặc phản đối linh hoạt** | **5/8** | S1, S2, S3, S6, S7 |
+| 5 | **Chịu áp lực công việc/doanh số** | **5/8** | S2, S3, S4, S6, S8 |
+| 7 | **Kiên trì hoặc kiên nhẫn** | **4/8** | S3, S4, S6, S8 |
+| 8 | **Excel được nêu đích danh** | **3/8** | S2, S3, S7 |
+| 9 | **Lắng nghe được nêu đích danh** | **2/8** | S2, S7 |
+| 9 | **Biết sử dụng CRM được nêu trong yêu cầu** | **2/8** | S3: lợi thế; S7: sử dụng được |
+
+Các nhóm có thể chồng lấp: chẳng hạn giọng nói là một thành phần của giao tiếp, không phải tiêu chí độc lập để cộng thành tổng.
+
+**CRM xuất hiện nhiều hơn nếu xét cả nhiệm vụ:** 6/8 tin nhắc CRM trong công việc hoặc yêu cầu, nhưng chỉ 2/8 nêu rõ năng lực sử dụng CRM trong phần tuyển chọn. Vì vậy, không nên diễn giải rằng tất cả doanh nghiệp đều bắt buộc ứng viên đã thành thạo CRM trước khi vào làm. Các nhiệm vụ cập nhật dữ liệu thể hiện rõ ở [Nha Phong](https://nhansu.vn/nhan-vien-telesales-di-lam-ngay-luong-tu-7tr-den-12tr-232588.html), [Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html), [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) và [FSB](https://career.fpt.edu.vn/Job/Detail/77428).
+
+Về thái độ, các tin nhấn mạnh trách nhiệm, trung thực, chủ động và học hỏi theo những cách khác nhau. Riêng [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html) coi trọng sự bình tĩnh, minh bạch và tư vấn đúng phạm vi; [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) nêu yêu cầu bảo vệ dữ liệu khách hàng.
+
+**3. Từ khóa nên có trong CV**
+
+Đối với JD tham chiếu, nên ưu tiên các cụm sau, **chỉ sử dụng khi phản ánh đúng năng lực hoặc kinh nghiệm thực tế**:
+
+| Nhóm | Từ khóa đề xuất |
+|---|---|
+| Chức danh, nghiệp vụ | Tư vấn viên; chăm sóc khách hàng qua điện thoại; CSKH; telesales; hỗ trợ khách hàng |
+| Công việc cốt lõi | Liên hệ danh sách khách hàng có sẵn; giải đáp thắc mắc; hướng dẫn theo quy trình; chăm sóc khách hàng định kỳ |
+| Giao tiếp | Lắng nghe; xác định nhu cầu; truyền đạt rõ ràng; xử lý tình huống; xử lý phản hồi/khiếu nại |
+| Dữ liệu, công cụ | Cập nhật thông tin khách hàng; CRM; lịch sử tương tác; Excel; Google Sheets; báo cáo kết quả công việc |
+| Tổ chức, thái độ | Theo dõi tiến độ; phối hợp liên phòng ban; tuân thủ quy trình; bảo mật thông tin; trách nhiệm; kiên trì |
+
+Các cụm về CRM, Excel, tư vấn và xử lý phản hồi được thể hiện trong [Zacy](https://nhansu.vn/nhan-vien-telesales-mang-duoc-my-pham-217387.html), [Aquahandy](https://nhansu.vn/nhan-vien-kinh-doanh-b2b-luong-cung-10-11-trieu-thuong-230403.html) và [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html).
+
+**Cách đưa vào CV:** gắn từ khóa với hành động và kết quả. Ví dụ: “Theo dõi yêu cầu khách hàng trên Excel, phối hợp bộ phận liên quan và cập nhật tiến độ xử lý hằng ngày.”
+
+Chưa có căn cứ từ các nguồn trên để xác định từng doanh nghiệp sử dụng hệ thống ATS nào hoặc ngưỡng chấm điểm từ khóa. Những cụm này giúp CV thể hiện mức độ phù hợp, **không bảo đảm vượt qua sàng lọc**.
+
+**4. Ứng viên khoảng 40 tuổi chuyển ngành: nên chứng minh điều gì?**
+
+**Không có tin nào trong mẫu tuyên bố ưu tiên người khoảng 40 tuổi.** Các lợi thế dưới đây là nhận định từ yêu cầu công việc, không phải kết luận rằng nhà tuyển dụng ưu tiên một nhóm tuổi.
+
+| Kinh nghiệm nền tảng | Giá trị có thể chuyển sang vị trí tư vấn/CSKH | Minh chứng nên đưa vào CV |
+|---|---|---|
+| Quản lý, điều phối | Theo dõi yêu cầu đến khi hoàn tất, phối hợp các bộ phận | Một tình huống xử lý vướng mắc và kết quả cụ thể |
+| Kiểm soát, kiểm tra | Ghi nhận chính xác, kiểm tra thông tin, thực hiện đúng quy trình | Khối lượng hồ sơ đã kiểm tra, sai sót đã phát hiện hoặc giảm được |
+| Kinh doanh | Hiểu nhu cầu, giải thích lợi ích, duy trì quan hệ | Số khách đã phụ trách, tỷ lệ tái mua hoặc kết quả chăm sóc nếu có |
+| Xử lý quan hệ khách hàng | Bình tĩnh trước phản hồi, giải thích rõ, thống nhất bước xử lý | Một trường hợp giải quyết phản ánh hoặc giữ được khách |
+| Đào tạo, hướng dẫn nhân sự | Tiếp thu và diễn đạt quy trình có hệ thống | Ví dụ hướng dẫn người khác thực hiện nghiệp vụ |
+
+Đây là các năng lực phù hợp với công việc theo dõi khiếu nại của [ONE GROUP](https://careerviet.vn/vi/tim-viec-lam/nhan-vien-cham-soc-khach-hang-my-pham.35C806B5.html), quản lý thông tin của [LOTTE Finance](https://careerviet.vn/vi/tim-viec-lam/ha-noi_telesales-nhan-vien-ban-hang-qua-dien-thoai.35C77B5C.html) và tư vấn bình tĩnh, đúng phạm vi của [VitalWave](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-sales-cham-soc-khach-hang.35C7FF8B.html).
+
+**Rào cản tuổi cần đọc kỹ:** Aquahandy ghi 20–35 tuổi; Zacy ghi 22–35 tuổi. Tin Kim Cương có thông tin mâu thuẫn: phần yêu cầu ghi 20–35, trong khi trường thông tin khác ghi không giới hạn. Không nên coi tin này là đã xác nhận nhận ứng viên 40 tuổi. Ngược lại, LOTTE Finance, ONE GROUP và VitalWave hiển thị không giới hạn tuổi; Nha Phong ghi không yêu cầu độ tuổi, nhưng tuyển nữ. Nguồn và ngày tương ứng ở S1–S7.
+
+Khuyến nghị cho ứng viên chuyển ngành là làm rõ **lý do chọn công việc trực tiếp phục vụ khách hàng, khả năng học công cụ và mong muốn gắn bó**. Chức danh quản lý trước đây nên đi cùng minh chứng nghiệp vụ gần với JD, tránh để người đọc phải tự suy đoán khả năng làm công việc hằng ngày.
+
+**5. Khuyến nghị cho “Mục tiêu nghề nghiệp” và “Kỹ năng”**
+
+**Mục tiêu nghề nghiệp — bản đề xuất**
+
+> Mong muốn chuyển sang vị trí Tư vấn viên/Chăm sóc khách hàng qua điện thoại, vận dụng kinh nghiệm quản lý, kiểm soát và kinh doanh để hỗ trợ khách hàng rõ ràng, chính xác và theo sát yêu cầu đến khi hoàn tất. Sẵn sàng học sản phẩm, quy trình và hệ thống CRM; hướng tới đáp ứng các chỉ tiêu được giao và gắn bó lâu dài.
+
+Chỉ giữ những lĩnh vực kinh nghiệm thực sự có. Không cần đưa tuổi hoặc mức thu nhập mong muốn vào đoạn này. Nếu phù hợp thực tế, có thể ghi riêng ở phần thông tin bổ sung: “Có thể làm việc tại Từ Liêm, theo lịch Thứ 2–Thứ 7.”
+
+**Kỹ năng — cách viết phù hợp JD**
+
+Chọn khoảng 5–6 dòng và điều chỉnh theo năng lực thực tế:
+
+- **Giao tiếp và tư vấn:** Lắng nghe, xác định nhu cầu, giải thích thông tin rõ ràng và kiểm tra mức độ hiểu của khách hàng.
+- **Xử lý phản hồi:** Tiếp nhận, xác minh và phối hợp giải quyết vấn đề trong phạm vi trách nhiệm.
+- **Theo dõi khách hàng:** Quản lý danh sách, lịch liên hệ và tiến độ xử lý; chủ động nhắc các đầu việc còn tồn.
+- **Quản lý thông tin:** Ghi nhận đầy đủ nội dung trao đổi, kiểm tra độ chính xác và bảo mật dữ liệu.
+- **Excel/Google Sheets:** Nhập liệu, sắp xếp, lọc và tổng hợp báo cáo — chỉ liệt kê thao tác đã sử dụng.
+- **Tổ chức công việc:** Ưu tiên đầu việc, tuân thủ quy trình, báo cáo đúng hạn và phối hợp với các bộ phận.
+
+**Nếu chưa từng dùng CRM**, nên ghi trung thực: “Có kinh nghiệm quản lý dữ liệu trên Excel; sẵn sàng học hệ thống CRM.” Nếu đã dùng, ghi tên hệ thống và thao tác cụ thể như cập nhật hồ sơ, lưu lịch sử trao đổi hoặc đặt lịch chăm sóc.
+
+Để tăng sức thuyết phục, bổ sung một minh chứng có số liệu thật trong phần kinh nghiệm, chẳng hạn: “Theo dõi **[X]** hồ sơ/khách hàng mỗi tháng, phối hợp xử lý **[Y]** yêu cầu và duy trì **[Z]%** đầu việc đúng hạn.”
